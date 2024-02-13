@@ -22,6 +22,14 @@ Yes, https://support.apple.com/guide/apple-vision-pro/set-up-and-activate-siri-t
 
 ### What are the requirements for Mirroring?
 
+## Mac Virtual Display Questions
+
+## What is Mac Virtual Display?
+
+## How do I setup Mac Virtual Display?
+
+## What are the requirements for Mac Virtual Display?
+
 ## WebXR Questions
 
 ### WHat is WebXR?
