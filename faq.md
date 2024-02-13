@@ -4,7 +4,7 @@
 
 ### Is there a User Manual for Vision Pro?
 
-Yes, https://support.apple.com/guide/apple-vision-pro/set-up-and-activate-siri-tanf53b300e4/visionos
+Yes, it can be found at [Apple Vision Pro User Guide](https://support.apple.com/guide/apple-vision-pro/welcome/visionos)
 
 ## Siri Questions
 
