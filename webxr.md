@@ -1,6 +1,6 @@
 # WebXR
 
-# WebXR Sites
+## WebXR Sites
 
 https://immersiveweb.dev
 
