@@ -32,7 +32,7 @@ Yes, it can be found at [Apple Vision Pro User Guide](https://support.apple.com/
 
 ## WebXR Questions
 
-### WHat is WebXR?
+### What is WebXR?
 
 ### What are some good WebXR URLs?
 
